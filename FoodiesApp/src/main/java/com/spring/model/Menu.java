@@ -21,7 +21,7 @@ import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 public class Menu implements Serializable{
 	
 	/**
-	 * 1234
+	 * 12345
 	 */
 	private static final long serialVersionUID = 1L;
 
